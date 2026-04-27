@@ -11,10 +11,14 @@
     "lint": "expo lint"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.90.0",
     "@expo/vector-icons": "^15.0.3",
+    "@google/generative-ai": "^0.24.1",
     "@react-navigation/bottom-tabs": "^7.4.0",
     "@react-navigation/elements": "^2.6.3",
     "@react-navigation/native": "^7.1.8",
+    "apify-client": "^2.23.0",
+    "dotenv": "^17.4.2",
     "expo": "~54.0.33",
     "expo-constants": "~18.0.13",
     "expo-font": "~14.0.11",
